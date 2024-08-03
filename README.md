@@ -15,6 +15,8 @@ The VerveAI project involves several key steps to ensure efficiency and effectiv
 5. **Generation**
 
 Each of these steps is crucial to the system's performance and accuracy.
+### Architecture:
+![RAG workflow](./RAG.png)
 
 ### 1. Vector Embedding 📊
 
